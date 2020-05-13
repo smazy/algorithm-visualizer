@@ -93,7 +93,7 @@ body {
 .code {
     background: #231F2A;
     border-radius: 20px;
-    height: 350px;
+    height: 255px;
 }
 .code h4 {
     color: white;
@@ -109,5 +109,4 @@ body {
     background-color: pink;
     padding: 0px 20px 0px 20px;;
     margin: 0px 10px 0px 0px;
-
 }
